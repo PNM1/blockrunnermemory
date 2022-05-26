@@ -1,0 +1,16 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Application themeState. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+
+    </style>
+
+
+    <style name="AppBaseTheme" parent="@android:style/Theme.NoTitleBar">
+    </style>
+
+
+
+
+
+</resources>
